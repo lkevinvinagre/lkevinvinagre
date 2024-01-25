@@ -2,7 +2,7 @@
 
 <!-- Social Media:START -->
 <div>
-  <a href="https://www.youtube.com/@_kevinvinagre_" target="_blank">
+  <a href="https://www.youtube.com/@_kevinvinagre" target="_blank">
     <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/lkevinvinagre" target="_blank">
