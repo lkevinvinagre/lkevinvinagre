@@ -135,7 +135,7 @@
 
 ### Prototype
 
-<img style="margin: 10px" src="assets/Adobe xd.svg" alt="Adobe xd" title="Adobe xd" height="50" />
+<img style="margin: 10px" src="assets/Adobe XD.svg" alt="Adobe xd" title="Adobe xd" height="50" />
 <img style="margin: 10px" src="assets/Figma.svg" alt="Figma" title="Figma" height="50" />
 
 </td>
@@ -166,7 +166,7 @@
 <td align="center" width="100%" valign="top">
 
 <img style="margin: 10px" src="assets/WordPress.svg" alt="WordPress" title="WordPress" height="50" />
-<img style="margin: 10px" src="assets/blender.svg" alt="Blender" title="Blender" height="50" />
+<img style="margin: 10px" src="assets/Blender.svg" alt="Blender" title="Blender" height="50" />
 
 </td>
 </tr>
@@ -176,18 +176,3 @@
 <br/>
 
 <!-- Multimedia:END -->
-
-
-<!-- STATS:START -->
-
-<div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=lkevinvinagre&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
-</div>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=lkevinvinagre&theme=dracula" alt="My contributions" />
-</div>
-<div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lkevinvinagre&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
-</div>
-
-<!-- STATS:END -->
