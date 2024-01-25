@@ -78,7 +78,7 @@
 </td>
 <td align="center" valign="top">
 
-### Cloud & DevOps
+### Cloud & Containers
 
 <img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
 <img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
