@@ -137,6 +137,14 @@
 </td>
 <td align="center" width="36%" valign="top">
 
+### Photo Editing
+
+<img style="margin: 10px" src="assets/Adobe Lightroom.svg" alt="Lightroom" title="Lightroom" height="50" />
+<img style="margin: 10px" src="assets/darktable.svg" alt="Darktable" title="Darktable" height="50" />
+
+</td>
+<td align="center" width="36%" valign="top">
+
 ### Animation
 
 <img style="margin: 10px" src="assets/Adobe Animate.svg" alt="Animate" title="Animate" height="50" />
@@ -170,6 +178,14 @@
 <img style="margin: 10px" src="assets/Natron.svg" alt="Natron2" title="Natron2" height="50" />
 
 </td>
+<td align="center" valign="top">
+
+### 3D Modeling
+
+<img style="margin: 10px" src="assets/maya.svg" alt="Maya" title="Maya" height="50" />
+<img style="margin: 10px" src="assets/Blender.svg" alt="Blender" title="Blender" height="50" />
+
+</td>
 </tr>
 </table>
 
@@ -181,7 +197,6 @@
 <td align="center" width="100%" valign="top">
 
 <img style="margin: 10px" src="assets/WordPress.svg" alt="WordPress" title="WordPress" height="50" />
-<img style="margin: 10px" src="assets/Blender.svg" alt="Blender" title="Blender" height="50" />
 
 </td>
 </tr>
