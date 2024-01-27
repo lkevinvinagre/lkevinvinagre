@@ -5,8 +5,8 @@
   <a href="https://www.youtube.com/@_kevinvinagre" target="_blank">
     <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=YouTube style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.twitch.tv/kevinvinagre" target="_blank">
-    <img src=https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
+  <a href="https://kick.com/lkevinvinagre" target="_blank">
+    <img src=https://img.shields.io/badge/Kick-53FC19.svg?style=for-the-badge&logo=Kick&logoColor=white alt=Kick style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/lkevinvinagre" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
