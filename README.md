@@ -1,11 +1,12 @@
 ![banner)](/banner.png)<br>
 # About me
 [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/atKtk2AIUPM&t)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Wanna+know+more+?+" align="center">
+
+### 🌐 Connect with Me  
 <!-- Social Media:START -->
 <div>
-  <a href="https://www.youtube.com/@kevinvinagre" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=YouTube style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.linkedin.com/in/lkevinvinagre/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
