@@ -1,37 +1,16 @@
 ![banner)](/banner.png)<br>
-### Hi i'm kevin let's Dev
-
+# About me
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/atKtk2AIUPM&t)
 <!-- Social Media:START -->
 <div>
   <a href="https://www.youtube.com/@kevinvinagre" target="_blank">
     <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=YouTube style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.twitch.tv/kevinvinagre" target="_blank">
-    <img src=https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white alt=Twitch style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/lkevinvinagre" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/_kevinvinagre" target="_blank">
-    <img src=https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white alt=X style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/lkevinvinagre/" target="_blank">
-    <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.facebook.com/lkevinvinagre/" target="_blank">
-    <img src=https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/lkevinvinagre/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.behance.net/lkevinVinagre" target="_blank">
     <img src=https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=whit alt=behance style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.reddit.com/user/PropertyExcellent794" target="_blank">
-    <img src=https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://wa.me/5592981817978" target="_blank">
-    <img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt=reddit style="margin-bottom: 5px;" />
   </a>
 </div>
 
