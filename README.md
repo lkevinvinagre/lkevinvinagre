@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Wanna+know+more+?+" align="center">
 
 <!--Language e Technology: START-->
-### 🛠️ Languages and Technologies  
+### </> Languages  
 
 <div style="display: inline_block">
    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-8e00cd?style=for-the-badge&logo=Spring&logoColor=white">
@@ -14,10 +14,16 @@
   <img align="center" alt="Node" src="https://img.shields.io/badge/NODEJS-8e00cd?style=for-the-badge&logo=Node.js&logoColor=white">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-8e00cd?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-8e00cd?style=for-the-badge&logo=figma&logoColor=white">
-  <img align="center" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-8e00cd?style=for-the-badge&logo=inkscape&logoColor=white">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-8e00cd?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img align="center" alt="Godot" src="https://img.shields.io/badge/Godot-8e00cd?style=for-the-badge&logo=godotengine&logoColor=white">
+</div>
 <!--Language e Technology: END-->
+
+### 🎬 Multimedia
+<div style="display: inline_block">
+ <img align="center" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-8e00cd?style=for-the-badge&logo=inkscape&logoColor=white">
+</div>
+<!--Multimedia: END-->
 
 ### 🌐 Connect with Me  
 <!-- Social Media:START -->
