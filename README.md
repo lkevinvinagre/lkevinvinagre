@@ -9,24 +9,25 @@
 ### 🛠️ Languages and Technologies  
 
 <div style="display: inline_block">
-   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-8e00cd?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" alt="JAVA" src="https://img.shields.io/badge/HTML5-8e00cd?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-8e00cd?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-8e00cd?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-8e00cd?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-8e00cd?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Git"  src="https://img.shields.io/badge/GIT-8e00cd?style=for-the-badge&logo=git&logoColor=white"> 
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-8e00cd?style=for-the-badge&logo=linux&logoColor=white""> 
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-8e00cd?style=for-the-badge&logo=figma&logoColor=white"> 
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-8e00cd?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-8e00cd?style=for-the-badge&logo=inkscape&logoColor=white">
 <!--Language e Technology: END-->
 
 ### 🌐 Connect with Me  
 <!-- Social Media:START -->
 <div>
   <a href="https://www.linkedin.com/in/lkevinvinagre/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/LinkedIn-8e00cd?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.behance.net/lkevinVinagre" target="_blank">
-    <img src=https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=whit alt=behance style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/Behance-8e00cd?style=for-the-badge&logo=Behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
   </a>
 </div>
 
