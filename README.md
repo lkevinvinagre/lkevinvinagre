@@ -17,6 +17,7 @@
   <img align="center" alt="Git"  src="https://img.shields.io/badge/GIT-8e00cd?style=for-the-badge&logo=git&logoColor=white"> 
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-8e00cd?style=for-the-badge&logo=linux&logoColor=white""> 
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-8e00cd?style=for-the-badge&logo=figma&logoColor=white">
+  <br>
   <img align="center" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-8e00cd?style=for-the-badge&logo=inkscape&logoColor=white">
 <!--Language e Technology: END-->
 
