@@ -9,11 +9,10 @@
 ### 🛠️ Languages and Technologies  
 
 <div style="display: inline_block">
-   <img align="center" alt="JAVA" src="https://img.shields.io/badge/HTML5-8e00cd?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-8e00cd?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-8e00cd?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-8e00cd?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-8e00cd?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-8e00cd?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Git"  src="https://img.shields.io/badge/GIT-8e00cd?style=for-the-badge&logo=git&logoColor=white"> 
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-8e00cd?style=for-the-badge&logo=linux&logoColor=white""> 
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-8e00cd?style=for-the-badge&logo=figma&logoColor=white">
