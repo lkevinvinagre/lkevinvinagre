@@ -52,6 +52,17 @@
 
 <!--Frameworks: END-->
 
+<!--Test: START-->
+
+### 🐞 Test
+
+<div style="display: inline_block">
+   <img align="center" alt="Junit" src="https://img.shields.io/badge/Junit-8e00cd?style=for-the-badge&logo=junit5&logoColor=white">
+  <img align="center" alt="Jest"  src="https://img.shields.io/badge/Jest-8e00cd?style=for-the-badge&logo=jest&logoColor=white">
+</div>
+
+<!--Test: END-->
+
 <!--Multimedia: START-->
 
 ### 🎬 Multimedia
