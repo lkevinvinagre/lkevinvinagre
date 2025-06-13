@@ -29,7 +29,7 @@
 <!--Language: START-->
 ### </> Languages
 
-<div style="display: inline_block">
+<div style="display: inline_block gap: 5px;">
    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-8e00cd?style=for-the-badge&logo=Openjdk&logoColor=white">
   <img align="center" alt="PHP"  src="https://img.shields.io/badge/PHP-8e00cd?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JAVASCRIPT-8e00cd?style=for-the-badge&logo=javascript&logoColor=white">
@@ -42,7 +42,7 @@
 
 ### 🛠️ Frameworks
 
-<div style="display: inline_block">
+<div style="display: inline_block gap: 5px;">
    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-8e00cd?style=for-the-badge&logo=Spring&logoColor=white">
   <img align="center" alt="Laravel"  src="https://img.shields.io/badge/Laravel-8e00cd?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Node" src="https://img.shields.io/badge/NODEJS-8e00cd?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -66,7 +66,7 @@
 <!--Multimedia: START-->
 
 ### 🎬 Multimedia
-<div style="display: inline_block">
+<div style="display: inline_block gap: 5px;">
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-8e00cd?style=for-the-badge&logo=figma&logoColor=white">
  <img align="center" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-8e00cd?style=for-the-badge&logo=inkscape&logoColor=white">
  <img align="center" alt="Gimp" src="https://img.shields.io/badge/Gimp-8e00cd?style=for-the-badge&logo=Gimp&logoColor=white">
