@@ -5,28 +5,58 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Wanna+know+more+?+" align="center">
 
-<!--Language e Technology: START-->
-### </> Languages  
+<!--Language: START-->
+### </> Languages
+
+<div style="display: inline_block">
+   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-8e00cd?style=for-the-badge&logo=Openjdk&logoColor=white">
+  <img align="center" alt="PHP"  src="https://img.shields.io/badge/PHP-8e00cd?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JAVASCRIPT-8e00cd?style=for-the-badge&logo=javascript&logoColor=white">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-8e00cd?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-8e00cd?style=for-the-badge&logo=cplusplus&logoColor=white">
+</div>
+<!--Language: END-->
+
+<!--Frameworks: START-->
+
+### 🛠️ Frameworks
 
 <div style="display: inline_block">
    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-8e00cd?style=for-the-badge&logo=Spring&logoColor=white">
   <img align="center" alt="Laravel"  src="https://img.shields.io/badge/Laravel-8e00cd?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Node" src="https://img.shields.io/badge/NODEJS-8e00cd?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-8e00cd?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-8e00cd?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img align="center" alt="Godot" src="https://img.shields.io/badge/Godot-8e00cd?style=for-the-badge&logo=godotengine&logoColor=white">
+  <img align="center" alt="Django" src="https://img.shields.io/badge/DJANGO-8e00cd?style=for-the-badge&logo=django&logoColor=white">
+  <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-8e00cd?style=for-the-badge&logo=dotnet&logoColor=white">
 </div>
-<!--Language e Technology: END-->
+
+<!--Frameworks: END-->
+
+<!--Multimedia: START-->
 
 ### 🎬 Multimedia
 <div style="display: inline_block">
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-8e00cd?style=for-the-badge&logo=figma&logoColor=white">
  <img align="center" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-8e00cd?style=for-the-badge&logo=inkscape&logoColor=white">
+ <img align="center" alt="Gimp" src="https://img.shields.io/badge/Gimp-8e00cd?style=for-the-badge&logo=Gimp&logoColor=white">
+ <img align="center" alt="Kdenlive" src="https://img.shields.io/badge/Kdenlive-8e00cd?style=for-the-badge&logo=Kdenlive&logoColor=white">
+ <img align="center" alt="Blender" src="https://img.shields.io/badge/Blender-8e00cd?style=for-the-badge&logo=Blender&logoColor=white">
 </div>
 <!--Multimedia: END-->
 
-### 🌐 Connect with Me  
+<!--Games: START-->
+
+### 🛠️ Games
+
+<div style="display: inline_block">
+  <img align="center" alt="Godot" src="https://img.shields.io/badge/Godot-8e00cd?style=for-the-badge&logo=godotengine&logoColor=white">
+  <img align="center" alt="GameMaker" src="https://img.shields.io/badge/GameMaker-8e00cd?style=for-the-badge&logo=GameMaker&logoColor=white">
+</div>
+
+<!--Games: END-->
+
 <!-- Social Media:START -->
+
+### 🌐 Connect with Me  
 <div>
   <a href="https://www.linkedin.com/in/lkevinvinagre/" target="_blank">
     <img src=https://img.shields.io/badge/LinkedIn-8e00cd?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
