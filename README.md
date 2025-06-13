@@ -1,9 +1,30 @@
+<div>
+  <a href="https://github.com/lkevinvinagre" target="_blank">
+    <img src="https://img.shields.io/github/followers/lkevinvinagre?style=flat-square" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/lkevinvinagre" target="_blank">
+    <img src="https://img.shields.io/github/stars/lkevinvinagre?style=flat-square" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/paulosalvatore" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=lkevinvinagre&&style=flat-square" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 # The road so far
 
 [![Watch the video](/banner_video.png)](https://youtu.be/atKtk2AIUPM&t)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Wanna+know+more+?+" align="center">
+
+<!--Containers: START-->
+
+### 📦 Containers
+
+<div style="display: inline_block">
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-8e00cd?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+
+<!--Conatiners: END -->
 
 <!--Language: START-->
 ### </> Languages
@@ -66,24 +87,12 @@
   </a>
 </div>
 
-<div>
-  <a href="https://github.com/lkevinvinagre" target="_blank">
-    <img src="https://img.shields.io/github/followers/lkevinvinagre?style=flat-square" alt="GitHub Stars" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/lkevinvinagre" target="_blank">
-    <img src="https://img.shields.io/github/stars/lkevinvinagre?style=flat-square" alt="GitHub Stars" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/paulosalvatore" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=lkevinvinagre&&style=flat-square" alt="GitHub Stars" style="margin-bottom: 5px;" />
-  </a>
-</div>
-
 <!-- Social Media:END -->
 
 <!-- Github Stats:START-->
 ### 📊 GitHub Statistics  
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 10px;">
 
   <img 
     align="left" 
