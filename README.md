@@ -100,8 +100,3 @@
 
 <!-- Social Media:END -->
 
-<!-- Github Stats:START-->
-### 📊 GitHub Statistics  
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/yourusername)
-
-<!-- Github Stats:END -->
