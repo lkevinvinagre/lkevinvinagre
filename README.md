@@ -100,3 +100,18 @@
 
 <!-- Social Media:END -->
 
+<!--GIT Stats: START-->
+
+<div style="display: flex; align-items: center; gap: 10px;">
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=lkevinvinagre&show_icons=true&theme=midnight-purple&include_all_commits=false"
+    />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkevinvinagre&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" height="200" align="center"> <br>  
+  
+</div> 
+
+<!-- GIT Stats: END-->
