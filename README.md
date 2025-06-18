@@ -102,7 +102,9 @@
 
 <!--GIT Stats: START-->
 
-<div style="display: flex; align-items: center; gap: 10px; padding: 10px">
+<br>
+
+<div style="display: flex; align-items: center; gap: 10px;">
 
   <img 
     align="left" 
